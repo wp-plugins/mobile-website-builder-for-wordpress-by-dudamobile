@@ -1,4 +1,5 @@
-=== DudaMobile ===
+=== Plugin Name ===
+Plugin Name: DudaMobile
 Contributors: shaunwaks
 Tags: android, blackberry, buddypress, cellphone, iPad, iphone, ipod, mobile, mobile detection, mobile phone, mobile stats, mobile website, pds, phone, touch, webkit, wireless
 Stable tag: trunk
