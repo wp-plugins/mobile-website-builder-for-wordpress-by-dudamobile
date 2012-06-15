@@ -23,8 +23,7 @@ The DudaMobile Wordpress plugin makes it easy to convert your Wordpress website 
 *   No coding required  
 
 
-# **How it works:**
-
+# **How it works:**  
 # *Step 1:*
 Download and install the DudaMobile Wordpress plugin then click the Get Started button.  DudaMobile reads the HTML and content from the website and converts it to a mobile-friendly version.
 
