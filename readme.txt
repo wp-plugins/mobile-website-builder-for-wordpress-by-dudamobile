@@ -2,7 +2,9 @@
 Plugin Name: DudaMobile
 Contributors: dudamobile.com
 Tags: android, blackberry, buddypress, cellphone, iPad, iphone, ipod, mobile, mobile detection, mobile phone, mobile stats, mobile website, pds, phone, touch, webkit, wireless
-Stable tag: trunk
+Requires at least: 3.0.1
+Tested up to: 3.4
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -104,3 +106,13 @@ Go to DudaMobile support to view Help and tutorials at [http://support.dudamobil
 3. Cupcake Site - Before and After
 4. Little Otter Site - Before and After
 5. Redwood Site - Before and After
+
+== Changelog ==
+
+= 1.0.1 =
+* Ensures will work smoothly in a Windows environment.
+
+== Upgrade Notice ==
+
+= 1.0.1 =
+Critical upgrade for WordPress instances running in a Windows environment.
