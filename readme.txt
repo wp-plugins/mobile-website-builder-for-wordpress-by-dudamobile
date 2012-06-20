@@ -101,11 +101,9 @@ Go to DudaMobile support to view Help and tutorials at [http://support.dudamobil
 
 == Screenshots ==
 
-1. Carmel Hotel Site - Before and After
-2. Cosmetology Site - Before and After
-3. Cupcake Site - Before and After
-4. Little Otter Site - Before and After
-5. Redwood Site - Before and After
+1. Cosmetology Site - Before and After
+2. Cupcake Site - Before and After
+3. Redwood Site - Before and After
 
 == Changelog ==
 
