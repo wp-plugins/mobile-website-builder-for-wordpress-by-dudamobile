@@ -3,7 +3,7 @@ Plugin Name: Duda Mobile Website Builder
 Contributors: dudamobile.com
 Tags: android, blackberry, buddypress, cellphone, iPad, iphone, ipod, mobile, mobile detection, mobile phone, mobile stats, mobile website, pds, phone, touch, webkit, wireless
 Requires at least: 3.0.1
-Tested up to: 3
+Tested up to: 3.5
 Stable tag: 1.0.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
