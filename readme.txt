@@ -8,7 +8,7 @@ Stable tag: 1.0.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Mobile Website Builder for WordPress by DudaMobile. With over 1.7 million mobile sites built on DudaMobile, we make it easy to go mobile.  
+Mobile Website Builder for WordPress by DudaMobile. With over 4 million mobile sites built on DudaMobile, we make it easy to go mobile.  
 
 == Description ==
 
@@ -69,11 +69,11 @@ Note: Go to your smartphone and make sure you can see your mobile-friendly site.
 
 = What is a mobile website redirect? =
 
-Before smartphone users can see the mobile-optimized version of a website, the site owner must insert a redirect script into the index.html file on their regular website. The DudaMobile Website for WordPress plugin removes this hassle and automatically redirects your WordPress site to the mobile-optimized site when someone visits from their mobile device.
+Before smartphone users can see the mobile-friendly version of a website, the they must insert a redirect script into the index.html file on their desktop website. The DudaMobile Website for WordPress plugin removes this hassle and automatically redirects your WordPress site to the mobile-friendly site when someone visits from their mobile device.
 
 = How do I activate the mobile website redirect? =
 
-Go to WordPress Control Panel. Click "DudaMobile" on your left-column menu. Go to "Redirect mobile users to" on the right hand of your WordPress Control Panel. Choose "Redirect Users to Home Page" and save settings. Users from mobile phones are automatically redirected to the home page of your mobile site.
+Go to WordPress Control Panel. Click "DudaMobile" on your left-column menu. Go to "Redirect mobile users to" on the right hand of your WordPress Control Panel. Choose "Redirect Users to Home Page" and save settings. Users from mobile phones are automatically redirected to the home page of your mobile site. If you have downloaded the plugin and created a site, but are receiving a message that says you have not yet built your site, please follow these instructions: [http://www.dudamobile.com/redirect/wordpress-original]   
 
 = Is there any special configuration that I need to use on WordPress to ensure the plugin works? =
 
@@ -81,19 +81,19 @@ No, you do not need to make any changes to your Wordpress website in order to ma
 
 = Where is my mobile website hosted? =
 
-When you build a mobile website on DudaMobile, we take care of the hosting and backup of your mobile site. Currently, Duda hosts over 1.7 million mobile websites.
+When you build a mobile website on DudaMobile, we take care of the hosting and backup of your mobile site. Currently, Duda hosts over 4 million mobile websites.
 
 = How does Duda auto-sync my mobile website with my Wordpress website? =
 
-This is part of our secret sauce. Each time a person visits your mobile site, Duda goes out and fetches updated content from your desktop site. This includes text, images, video even changes to the html. All of this done in real-time with no delay for your mobile site visitors.
+This is part of our secret sauce. Each time a person visits your mobile site, Duda goes out and fetches updated content from your desktop site. This includes text, images, video, even changes to the html. All of this done in real-time with no delay for your mobile site visitors.
 
 = Are mobile websites built on DudaMobile really free? =
 
-Yes! Mobile websites built on Duda are really free. You can build and host your mobile website with Duda at no cost. For businesses, we offer over a dozen premium features for as a little as $7.20 per month. [View plans](http://www.dudamobile.com/plans)
+Yes! Mobile websites built on Duda are really free. You can build and host your mobile site with us at no cost. For businesses, we offer tons of premium features designed to make the most of your mobile site. This enhanced level of service costs as little as $9 per month or $7.20 per month with the purchase of an annual plan. For the complete small business mobile web solution, Duda offers a comprehensive plan that includes mobile advertising services to drive customer traffic to your new mobile site, starting at only $200 for the first month. [View plans](http://www.dudamobile.com/plans)
 
 = Will my mobile website look good on all smartphones? =
 
-Mobile sites built on DudaMobile are designed to look great on all smartphones including iPhone, most Android phones, Windows phones and a variety of Blackberry devices. We perform extensive testing to ensure that your mobile website displays properly on new smartphones.
+Mobile sites built on DudaMobile are designed to look great on all smartphones. We perform extensive testing to ensure that your mobile website displays properly on new smartphones.
 
 = Where can I get help? =
 
