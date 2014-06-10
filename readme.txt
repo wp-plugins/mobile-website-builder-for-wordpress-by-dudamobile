@@ -8,7 +8,7 @@ Stable tag: 1.0.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-The simplest mobile website builder on WordPress. Over 5 million sites have already been made mobile with DudaMobile. 
+The simplest mobile website builder on WordPress. Over 5 million sites have already been made mobile with DudaMobile!
 
 == Description ==
 
