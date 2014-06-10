@@ -4,7 +4,7 @@ Contributors: dudamobile.com
 Tags: android, blackberry, buddypress, cellphone, iPad, iphone, ipod, mobile, mobile detection, mobile phone, mobile stats, mobile website, pds, phone, touch, webkit, wireless, mobile website builder
 Requires at least: 3.0.1
 Tested up to: 3.9.1
-Stable tag: 1.0.4
+Stable tag: 1.0.4w
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
