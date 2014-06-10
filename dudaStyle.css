@@ -223,10 +223,6 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#508baf', end
 /* begin styles3 */
 
 
-form{
-display: inline;
-}
-
 #redirectText, #urlText, #redirectToText, #updatedText, #bottomParagraph, #bottomParagraphText, #bottomFAQ, .redirect-table-title, .need-changes{
 font: 14px Arial, sans-serif !important;
 color: #464646;

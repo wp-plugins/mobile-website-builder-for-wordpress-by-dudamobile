@@ -81,6 +81,10 @@ define( "DUDAMOBILE_REDIRECTOR_ADMIN_PLUGIN_PATH", $path );
 	  
 define( "DUDAMOBILE_REDIRECTOR_PLUGIN_URL", get_option('siteurl' ).'/wp-content/plugins/'.basename(dirname(__FILE__)).'/');
 
+function isExcludedUrl() {
+	$excludedURI = array("xmlrpc.php");
+	return in_array(basename($_SERVER['REQUEST_URI'], '?' . $_SERVER['QUERY_STRING']),$excludedURI);
+}
 
 
 if (!class_exists( 'DudaMobileDetectorPlugin' )) {
@@ -567,7 +571,6 @@ see it, then publish.
 			}
 		}
 		
-		
 		/**
 		* Finds and formats the site's mobile URL. Determines visitor's
 		* device type and takes appropriate action.
@@ -600,7 +603,7 @@ see it, then publish.
 			$browsers = strtolower(str_replace(".*)", "", $browsers));	
 			
 			//if detect mobile then redirect to mobile site			
-			if(preg_match('/'.$browsers.'/i',$user_agent) &&  ! is_admin() && $options['activate_redirect']=='Y' && $options['mobile_url']!='')			
+			if(preg_match('/'.$browsers.'/i',$user_agent) &&  ! is_admin() && $options['activate_redirect']=='Y' && $options['mobile_url']!='' && !isExcludedUrl())			
 			{
 				
 				if($options['concate_url']=='ppm')
